@@ -7,7 +7,7 @@ The goal of the *Pulse Sequence Design* course is to build several educational a
 * `s00_fid`: the simplest free induction decay (FID) sequence.
 * `s01_from_fid_to_1d_se`: extend the FID sequence to SE sequence with 1D spatial encoding.
 ## First imaging basics 
-* `s02_from_1d_se_to_2d_radial` : converr 1D SE to a simple radial imaging sequence
+* `s02_from_1d_se_to_2d_radial` : convert the 1D SE to a simple radial imaging sequence
 * `s03_from_fid_to_gre1d` : first step towards imaging with gradient echos
 * `s04_from_gre1d_to_fully_relaxed_gre2d` : a simplest 2D gradient echo (without spoiling)
 
